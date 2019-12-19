@@ -21,3 +21,10 @@ https://codeclimate.com
 
 https://github.com/quay/clair
 
+## Pricing interlude
+
+## Going through the interface
+
+If you want to customize (use another registry, etc) you can use environment variables.
+
+
