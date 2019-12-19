@@ -13,4 +13,11 @@ Simple hello world in Ruby.
 
 https://gitlab.com/sean-carroll-gitlab-examples/minimal-ruby-app
 
+It can't identify the app because it's too simple :-)
+
+## Tools used
+
+https://codeclimate.com
+
+https://github.com/quay/clair
 
